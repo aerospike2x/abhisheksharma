@@ -20,7 +20,7 @@ The current physics does not have a notion of function and emergence of novelty 
 3.	How does selection emerge in a non-biological system and how can it be quantified?
 4.	How to detect life elsewhere in the universe using molecules as biosignatures?
 
-![image-center](/abhisheksharma/assets/images/Unconv_Comp_1.png){: .align-center}
+![image-center](/assets/images/Assembly_Theory_1.png){: .align-center}
 
 Fig 1. Left: Artistic representation of a cell showing self-assembled individual components within a vast combinatorial universe. (Image Credit: Dr Anna Tanczos, Sci-Comm Studios) Right: Nested structure of combinatorial assembly spaces, where different Assembly Contingent and Assembly Possible represent directed and undirected dynamics in forward processes respectively. (Nature 2023, 622 (7982), 321–328)
 
