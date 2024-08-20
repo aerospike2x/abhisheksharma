@@ -51,7 +51,7 @@ The exponential growth of computing power is getting restricted due to fabricati
 
 Our BZ computer was recently published in Nature Communications and our scalable classical-molecular computer was published in ACS Central Science. See the publication list for complete list of publications.
 
-![image-center](/assets/images/Unconv_Comp_1.png){: .align-center}
+![image-center](/abhisheksharma/assets/images/Unconv_Comp_1.png){: .align-center}
 
 Fig 2. Left: BZ Computer experimental setup and demonstrating “BZ Game of Life” Cellular Automata showing emergent life-like behaviour as an example of hybrid computation. (Nat Comm 2024, 15 (1), 1984) Right: Top image shows hybrid computer informational loop where spatiotemporal spatiotemporal states dynamically propagates between digital and chemical domains (Nat Comm 2024, 15 (1), 1984). Bottom image shows implementation of hybrid classical molecular computer using pH sensitive gel over a fully addressable electrode array. (ACS Cent. Sci. 2023, 9 (7), 1453–1465)
 
@@ -75,7 +75,7 @@ The discovery of novel materials involves exploration of high-dimensional chemic
 
 Our nanomaterials discovery and optimization robot as well as formulation robot both were recently published in Science Advances. We also developed a fast GPU-accelerated algorithm to simulate the spectral properties of dynamically evolving nanomaterials. See publications for the complete list.
 
-![image-center](/assets/images/Materials_Discovery_1.png){: .align-center}
+![image-center](/abhisheksharma/assets/images/Materials_Discovery_1.png){: .align-center}
 
 Fig 3. Left: Experimental concept for closed-loop nanomaterials discovery robot. Right: Experimental implementation of nanomaterials discovery robot comprising chemical reaction module, pumps control, flow cells and spectroscopy for closed-loop approach (Sci. Adv. 2022, 8 (40), eabo2626).
 
@@ -100,7 +100,7 @@ Programmable nanoscale Lab-on-a-Chip devices are very useful for cost-efficient 
 2.	Diffuse charge dynamics and programmability of non-linear electrochemical dynamics at microscale.
 3.	Information processing and bio-inspired swarm dynamics in autonomous microscale devices towards developing artificial cells.
 
-![image-center](/assets/images/Microsystems_Chemistry_1.png){: .align-center}
+![image-center](/abhisheksharma/assets/images/Microsystems_Chemistry_1.png){: .align-center}
 
 Fig 4. Left: A-D shows nanolitre on-demand droplet generation and mixing in a microfluidic device. The architecture is highly programmable and optimizable based on experimental requirements and has been used in generating DNA libraries at nanoscale (Biomicrofluidics 2015, 9 (1), 014119, Biomicrofluidics 9, 044103 2015). Right: A-F shows images of autonomous microscale CMOS electronic devices with on-chip supercapacitors, microchannels for electroosmotic drive, and sensors.  
 
