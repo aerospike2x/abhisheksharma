@@ -15,10 +15,6 @@ classes: wide
 1. Kahana, A.; MacLeod, A.; Mehr, H.; <u>Sharma A. </u>; Carrick E.; Jirasek, M.; Walker, S.; Cronin, L. Constructing the Molecular Tree of Life using Assembly Theory and Mass Spectrometry 
 [PAPER](https://doi.org/10.48550/arXiv.2408.09305)
 
-1. Lee, E.; Salley, D.; <u>Sharma, A.</u>; Cronin, L. A Material Crystallization Search Engine for the Preparation, Identification, and Separation of Polymorphs. *arXiv* 2024
-
-1. Pagel, S.; <u>Sharma, A.</u>, Cronin, L. Quantifying Chemical Selection and Molecular Evolution of Natural Products at the Planetary Scale using Assembly Theory. *arXiv* 2024
-
 
 ## Publications
 
