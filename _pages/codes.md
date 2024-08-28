@@ -20,3 +20,6 @@ classes: wide
 
 1. An Accelerated Method for Investigating Spectral Properties of Dynamically Evolving Nanostructures.
 [RD_DDA](https://github.com/aerospike2x/RD-DDA) 
+
+1. Autonomous lablet locomotion and active docking by sensomotoric electroosmotic drive
+[ELEC_THRUST](https://github.com/aerospike2x/electrokinetic_thrusters)
