@@ -12,8 +12,14 @@ classes: wide
 1. Maeke, T.; McCaskill, J.; Funke, D.; Mayr, P.; <u>Sharma, A.</u>; Tangen, U.; Oehm, J. Autonomous Programmable Microscopic Electronic Lablets Optimized with Digital Control. *arXiv* 2024. 
 [PAPER](https://doi.org/10.48550/ARXIV.2405.20110)
 
-1. Kahana, A.; MacLeod, A.; Mehr, H.; <u>Sharma A. </u>; Carrick E.; Jirasek, M.; Walker, S.; Cronin, L. Constructing the Molecular Tree of Life using Assembly Theory and Mass Spectrometry 
+1. Kahana, A.; MacLeod, A.; Mehr, H.; <u>Sharma A. </u>; Carrick E.; Jirasek, M.; Walker, S.; Cronin, L. Constructing the Molecular Tree of Life using Assembly Theory and Mass Spectrometry. *arXiv* 2024.
 [PAPER](https://doi.org/10.48550/arXiv.2408.09305)
+
+1. Pagel, S.; <u>Sharma, A.</u>; Cronin, L.; Mapping Evolution of Molecules Across Biochemistry with Assembly Theory. *arXiv* 2024.
+[PAPER](https://arxiv.org/abs/2409.05993)
+
+1. Lee, E C ; Salley, D.; <u>Sharma, A.</u>; Croninm, L.; AI-Driven Robotic Crystal Explorer for Rapid Polymorph Identification.  *arXiv* 2024.
+[PAPER](https://arxiv.org/abs/2409.05196) 
 
 
 ## Publications
