@@ -9,6 +9,12 @@ classes: wide
 
 ## Preprints and Submitted
 
+1. Guillen Soler, M.; Rauschen, R.; Laws, K.; <u>Sharma, A.</u>; Grocholski; N.; McNulty, M.; Cronin, L. ElectroChemputer with Integrated Monitoring for Programmable Electrochemistry. *ChemRxiv* 2025. 
+[PAPER](https://doi.org/10.26434/chemrxiv-2025-t9kcj)
+
+1. Cronin, L.; Pagel, S.; <u>Sharma, A.</u> Chemputer and Chemputation -- A Universal Chemical Compound Synthesis Machine *arXiv* 2025. 
+[PAPER](https://arxiv.org/abs/2408.09171)
+
 1. Patarroyo, K.; Sharma, A.; Seet I.; Packmore I.; Walker S.; Cronin L. Quantifying the Complexity of Materials with Assembly Theory *arXiv* 2025. (*shared first author*)
 [PAPER](https://arxiv.org/abs/2502.09750)
 
