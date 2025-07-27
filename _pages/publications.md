@@ -15,7 +15,7 @@ classes: wide
 1. Cronin, L.; Pagel, S.; <u>Sharma, A.</u> Chemputer and Chemputation -- A Universal Chemical Compound Synthesis Machine *arXiv* 2025. 
 [PAPER](https://arxiv.org/abs/2408.09171)
 
-1. Patarroyo, K.; Sharma, A.; Seet I.; Packmore I.; Walker S.; Cronin L. Quantifying the Complexity of Materials with Assembly Theory *arXiv* 2025. (*shared first author*)
+1. Patarroyo, K.; <u>Sharma, A.</u>; Seet I.; Packmore I.; Walker S.; Cronin L. Quantifying the Complexity of Materials with Assembly Theory *arXiv* 2025. (*shared first author*)
 [PAPER](https://arxiv.org/abs/2502.09750)
 
 1. Maeke, T.; McCaskill, J.; Funke, D.; Mayr, P.; <u>Sharma, A.</u>; Tangen, U.; Oehm, J. Autonomous Programmable Microscopic Electronic Lablets Optimized with Digital Control. *arXiv* 2024. 
