@@ -9,6 +9,9 @@ classes: wide
 
 ## Preprints and Submitted
 
+1. Rutter L. A.; <u>Sharma, A. </u>; Seet, I.; Obeh Alobo, D.; Goto, A.; Cronin, L. Exploring molecular assembly as a biosignature using mass spectrometry and machine learning *arXiv* 2025. 
+[PAPER](https://arxiv.org/abs/2507.19057)
+
 1. Guillen Soler, M.; Rauschen, R.; Laws, K.; <u>Sharma, A.</u>; Grocholski; N.; McNulty, M.; Cronin, L. ElectroChemputer with Integrated Monitoring for Programmable Electrochemistry. *ChemRxiv* 2025. 
 [PAPER](https://doi.org/10.26434/chemrxiv-2025-t9kcj)
 
