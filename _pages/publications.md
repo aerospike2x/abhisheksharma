@@ -42,7 +42,7 @@ classes: wide
 [PAPER](https://doi.org/10.1021/acscentsci.4c00120)
 
 1. Asche, S.; Pow, R. W.; Mehr, H. M.; Cooper, G. J. T.; <u>Sharma, A.</u>; Cronin, L. Evidence of Selection in Mineral Mediated Polymerization Reactions Executed in a Robotic Chemputer System. *ChemSystemsChem* 2024, 6 (3), e202400006. 
- 
+[PAPER] (https://doi.org/10.1002/syst.202400006) 
 
 1. <u>Sharma, A.</u>; Czégel, D.; Lachmann, M.; Kempes, C. P.; Walker, S. I.; Cronin, L. Assembly Theory Explains and Quantifies Selection and Evolution. 
 *Nature* 2023, 622 (7982), 321–328. 
