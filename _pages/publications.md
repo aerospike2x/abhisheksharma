@@ -9,7 +9,7 @@ classes: wide
 
 ## Preprints and Submitted
 
-1. Jirasek,M; Sharma,A; Wong,M; Munro J,; Cronin, L. Quantifying the Emergence of Selection Prior to Biological Evolution *arXiv* 2025.
+1. Jirasek, M.; <u>Sharma, A.</u>; Wong, M.; Munro, J.; Cronin, L. Quantifying the Emergence of Selection Prior to Biological Evolution *arXiv* 2025.
 [PAPER](https://arxiv.org/abs/2512.18752)
 
 1. Rutter L. A.; <u>Sharma, A. </u>; Seet, I.; Obeh Alobo, D.; Goto, A.; Cronin, L. Exploring molecular assembly as a biosignature using mass spectrometry and machine learning *arXiv* 2025. 
